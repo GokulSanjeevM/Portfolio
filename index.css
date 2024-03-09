@@ -88,7 +88,7 @@ body {
 .card .info {
     position: relative;
     z-index: 3;
-    color: white;
+    color: #0f0c0c;
     opacity: 0;
     transform: translateY(30px);
     transition: 0.5s;
